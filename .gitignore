@@ -1,0 +1,12 @@
+# Python related ignores
+*.py[cod]
+__pycache__/
+
+# Data related ignores
+*.csv
+*.xls
+*.xlsx
+*.json
+*.sqlite3
+*.h5
+.cache/
