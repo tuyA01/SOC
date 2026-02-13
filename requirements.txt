@@ -1,5 +1,19 @@
-# Python dependencies
+tensorflow
+pytorch
 numpy
 pandas
-requests
-flask
+scikit-learn
+rasterio
+matplotlib
+seaborn
+folium
+geopandas
+xarray
+netCDF4
+h5py
+scipy
+jupyter
+ipython
+notebook
+tqdm
+pillow
